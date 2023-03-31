@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239407209167",
+    "project_id": "fir-general-6fa32",
+    "storage_bucket": "fir-general-6fa32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239407209167:android:b5fa2d9d2f68ee251f35ba",
+        "android_client_info": {
+          "package_name": "com.freeguy.sort_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239407209167-6idtevr72g4p9p7ur5go8b1f4d29vsr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freeguy.sort_it",
+            "certificate_hash": "a54352bb98332cc467f2f06b023e53d82ed7f990"
+          }
+        },
+        {
+          "client_id": "239407209167-hc9t6dh3c5panmsol15f1lodsj7cerpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freeguy.sort_it",
+            "certificate_hash": "13e191186aa1cdfcdea04395f650aaeedca85d68"
+          }
+        },
+        {
+          "client_id": "239407209167-rgr5e95mqvgfb29b3i2339su0f5vgvkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkbBuF4OYdvo8MVzZn5nwJuBHEGzKL5Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239407209167-rgr5e95mqvgfb29b3i2339su0f5vgvkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
